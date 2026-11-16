@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Salud Activa - Mensajes</string>
+    <string name="login_title">Mensajes de Salud Activa</string>
+    <string name="login_subtitle">Inicia sesión para comunicarte con tu equipo de atención.</string>
+    <string name="email_label">Correo electrónico</string>
+    <string name="password_label">Contraseña</string>
+    <string name="sign_in">Iniciar sesión</string>
+    <string name="chat_title">Chat médico</string>
+    <string name="sign_out">Cerrar sesión</string>
+    <string name="message_hint">Escribe tu mensaje</string>
+    <string name="send">Enviar</string>
+    <string name="refresh">Actualizar</string>
+    <string name="empty_messages">Aún no hay mensajes. Puedes iniciar la conversación.</string>
+    <string name="loading">Cargando…</string>
+    <string name="sending">Enviando…</string>
+    <string name="invalid_email">Escribe un correo electrónico válido.</string>
+    <string name="missing_password">Escribe tu contraseña.</string>
+    <string name="empty_message">Escribe un mensaje antes de enviarlo.</string>
+    <string name="network_error">No fue posible conectar con el servicio. Revisa tu conexión e inténtalo de nuevo.</string>
+    <string name="invalid_session">Tu sesión venció. Inicia sesión de nuevo.</string>
+    <string name="server_error">El servicio devolvió un error (%1$d).</string>
+    <string name="doctor_sender">Equipo médico</string>
+    <string name="patient_sender">Tú</string>
+    <string name="medical_disclaimer">Este chat no es un servicio de emergencias.</string>
+</resources>
